@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/api_automation/api_automation.iml" filepath="$PROJECT_DIR$/api_automation/api_automation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/assignment_ui.iml" filepath="$PROJECT_DIR$/.idea/assignment_ui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ui_automation/ui_automation.iml" filepath="$PROJECT_DIR$/ui_automation/ui_automation.iml" />
+    </modules>
+  </component>
+</project>
