@@ -6,4 +6,5 @@ What is Pendig?
 3) Need to include external reporting like Serenity or Extent reports
 
 API-Automation:
-Inprogress
+refer https://github.com/Nagarajdemo/assignment/tree/main/api_automation
+Need to enhance reporting
